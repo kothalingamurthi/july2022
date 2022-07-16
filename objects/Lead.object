@@ -282,12 +282,10 @@
     </fields>
     <fields>
         <fullName>Email</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Fax</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -322,7 +320,6 @@
     </fields>
     <fields>
         <fullName>MobilePhone</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
@@ -340,7 +337,6 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>

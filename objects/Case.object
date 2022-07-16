@@ -226,17 +226,14 @@
     </fields>
     <fields>
         <fullName>Comments</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>ContactEmail</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>ContactFax</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
@@ -248,17 +245,14 @@
     </fields>
     <fields>
         <fullName>ContactMobile</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>ContactPhone</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>Description</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
@@ -317,7 +311,6 @@
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
@@ -325,7 +318,6 @@
     </fields>
     <fields>
         <fullName>ParentId</fullName>
-        <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
@@ -399,17 +391,14 @@
     </fields>
     <fields>
         <fullName>SuppliedEmail</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>SuppliedName</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>SuppliedPhone</fullName>
-        <securityClassification>Internal</securityClassification>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
